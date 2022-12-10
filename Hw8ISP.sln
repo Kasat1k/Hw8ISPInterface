@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw8ISP", "Hw8ISP.csproj", "{3D11A392-FE55-4B77-A912-A15AE65B2568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D11A392-FE55-4B77-A912-A15AE65B2568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D11A392-FE55-4B77-A912-A15AE65B2568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D11A392-FE55-4B77-A912-A15AE65B2568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D11A392-FE55-4B77-A912-A15AE65B2568}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {562F1694-B36E-4F4E-A656-88A054C587D5}
+	EndGlobalSection
+EndGlobal
